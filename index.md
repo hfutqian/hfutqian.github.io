@@ -9,7 +9,9 @@ layout: default
 Hi! I am currently a PhD student from Hefei University of Technology.
 
 ## Research Interests
-Computer vision, model compression and knowledge distillation。
+Computer vision, model compression and knowledge distillation
+
+## Biography
 
 ## Publications
 
