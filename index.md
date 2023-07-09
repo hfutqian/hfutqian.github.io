@@ -36,7 +36,7 @@ layout: default
 + <p style="color: #0000FF;"><b>Switchable Online Knowledge Distillation.</b></p> 
   **Biao Qian**, Yang Wang, Hongzhi Yin, Richang Hong, Meng Wang
 
-  **ECCV 2022: 449-466.**
+  **European Conference on Computer Vision (ECCV). 2022: 449-466.**
 
 + <p style="color: #0000FF;"><b>Diversifying inference path selection: Moving-mobile-network for landmark recognition.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang, Ling Shao
