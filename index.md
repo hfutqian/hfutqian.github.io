@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="biaoqian.jpg">
 
 Hi! I am currently a PhD student from Hefei University of Technology.
 
