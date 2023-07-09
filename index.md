@@ -26,12 +26,8 @@ layout: default
 + **Biao Qian**, Yang Wang, Richang Hong, Meng Wang:<p style="color: #0000FF;">Adaptive Data-Free Quantization.</p> 
   **IEEE CVPR 2023: 7960-7968.**
 
-  <p>Biao Qian, Yang Wang, Richang Hong, Meng Wang:<span>Adaptive Data-Free Quantization.</span>IEEE CVPR 2023: 7960-7968.</p>
-        <style>
-            span {
-                color: #0000FF;
-            }
-        </style>
++ <p style="color: #0000FF;">Adaptive Data-Free Quantization.</p> 
+
   
 + **<u>Biao Qian</u>, Yang Wang, Richang Hong, Meng Wang: Rethinking Data-free Quantization as a Zero-sum Game. AAAI 2023.**
 + **<u>Biao Qian</u>, Yang Wang, Hongzhi Yin, Richang Hong, Meng Wang: Switchable Online Knowledge Distillation. ECCV 2022: 449-466.**
