@@ -23,7 +23,7 @@ layout: default
 
 # Experience
 + 2017.09-present, Ph.D. student, School of Computer Science and Information Engineering, Hefei University of Technology.
-+ 2013.09-2017.06, undergraduate, School of Computer Science and Information Engineering, Hefei University of Technology.
++ 2013.09-2017.06, B.E., School of Computer Science and Information Engineering, Hefei University of Technology.
 
 ---
 
