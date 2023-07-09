@@ -21,7 +21,7 @@ layout: default
 ---
 
 # Biography
-**I am currently a PhD student at Hefei University of Technology, Hefei, China. I received the B.E. degree from Hefei University of Technology in 2017.**
+**I am currently a Ph.D. candidate at Hefei University of Technology, Hefei, China. I received the B.E. degree from Hefei University of Technology in 2017.**
 
 ---
 
