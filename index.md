@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+# About Me{color: #232B2D}
 
 <img class="profile-picture" src="biaoqian.jpg">
 **Ph.D. candidate**
