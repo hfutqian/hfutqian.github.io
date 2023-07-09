@@ -6,13 +6,17 @@ layout: default
 
 <img class="profile-picture" src="biaoqian.jpg">
 Ph.D. candidate
+
 Hefei University of Technology,
+
 Hefei, China
 
 Email: hfutqian@gmail.com
 
+
 ## Research Interests
 Computer Vision;  Model Compression;  Knowledge Distillation
+
 
 ## Biography
 I am currently a PhD student at Hefei University of Technology, Hefei, China.
