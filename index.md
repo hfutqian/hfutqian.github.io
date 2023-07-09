@@ -6,10 +6,10 @@ layout: default
 
 <img class="profile-picture" src="biaoqian.jpg">
 
-Hi! I am currently a PhD student from Hefei University of Technology.
+Hi! I am currently a PhD student at Hefei University of Technology, Hefei, China.
 
 ## Research Interests
-Computer vision, model compression and knowledge distillation
+Computer Vision  Model Compression  Knowledge Distillation
 
 ## Biography
 
