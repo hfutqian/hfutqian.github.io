@@ -34,7 +34,7 @@ layout: default
 + <p style="color: #0000FF;"><b>Rethinking Data-free Quantization as a Zero-sum Game.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang
 
-  **AAAI 2023.**
+  **AAAI** 2023.
 
 + <p style="color: #0000FF;"><b>Switchable Online Knowledge Distillation.</b></p> 
   **Biao Qian**, Yang Wang, Hongzhi Yin, Richang Hong, Meng Wang
@@ -49,7 +49,7 @@ layout: default
 + <p style="color: #0000FF;"><b>Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis.</b></p> 
   Haoran Sun, Yang Wang, Haipeng Liu, **Biao Qian**, Meng Wang
 
-  **Chinese Journal of Electronics (2023).**
+  **Chinese Journal of Electronics** (2023).
 
-
+---
 
