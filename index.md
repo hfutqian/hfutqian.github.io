@@ -13,16 +13,19 @@ layout: default
 
 **Google Scholar Profile:** [\[Google Scholar\]](https://scholar.google.com/citations?user=hSaWNR0AAAAJ)
 
+---
 
 # Research Interests
 **Computer Vision;  Model Compression;  Knowledge Distillation**
 
+---
 
 # Biography
 **I am currently a PhD student at Hefei University of Technology, Hefei, China.**
 
+---
 
-# <p style="color: #0000FF;">Recent Publications</p>
+# Recent Publications
 + <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang
   
