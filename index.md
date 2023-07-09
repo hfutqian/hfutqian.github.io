@@ -13,7 +13,7 @@ Computer Vision;  Model Compression;  Knowledge Distillation
 
 ## Biography
 
-## Publications
+## Recent Publications
 
 1. <u>Biao Qian</u>, Yang Wang, Richang Hong, Meng Wang: Adaptive Data-Free Quantization. IEEE CVPR 2023: 7960-7968.
 2. <u>Biao Qian</u>, Yang Wang, Richang Hong, Meng Wang: Rethinking Data-free Quantization as a Zero-sum Game. AAAI 2023.
