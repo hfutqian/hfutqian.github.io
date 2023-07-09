@@ -20,8 +20,10 @@ layout: default
 
 ---
 
-# Biography
-**I am currently a Ph.D. candidate at Hefei University of Technology, Hefei, China. I received the B.E. degree from Hefei University of Technology in 2017.**
+
+# Experience
++ 2017.09-present, Ph.D. student, School of Computer Science and Information Engineering, Hefei University of Technology.
++ 2013.09-2017.06, undergraduate, School of Computer Science and Information Engineering, Hefei University of Technology.
 
 ---
 
