@@ -26,9 +26,9 @@ layout: default
  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang:<p style="color: #0000FF;">Adaptive Data-Free Quantization.</p> 
   **IEEE CVPR 2023: 7960-7968.**
 
-\[1\] <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p> 
++ <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang
-  **IEEE CVPR 2023: 7960-7968.**
+  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). 2023: 7960-7968.
 
   
 + **<u>Biao Qian</u>, Yang Wang, Richang Hong, Meng Wang: Rethinking Data-free Quantization as a Zero-sum Game. AAAI 2023.**
