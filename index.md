@@ -29,9 +29,9 @@ layout: default
   Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). 2023: 7960-7968.
 
 + <p style="color: #0000FF;"><b>Rethinking Data-free Quantization as a Zero-sum Game.</b></p> 
-**Biao Qian**, Yang Wang, Richang Hong, Meng Wang
+  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang
 
-**AAAI 2023.**
+  **AAAI 2023.**
 
 + <p style="color: #0000FF;"><b>Switchable Online Knowledge Distillation.</b></p> 
   **Biao Qian**, Yang Wang, Hongzhi Yin, Richang Hong, Meng Wang
