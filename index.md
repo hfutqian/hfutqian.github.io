@@ -28,6 +28,7 @@ layout: default
 
 + <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang
+  
   Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). 2023: 7960-7968.
 
   
