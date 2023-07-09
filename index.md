@@ -22,11 +22,11 @@ layout: default
 **I am currently a PhD student at Hefei University of Technology, Hefei, China.**
 
 
-# Recent Publications
+# <p style="color: #0000FF;">Recent Publications</p>
 + <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang
   
-  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). 2023: 7960-7968.
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). 2023: 7960-7968.
 
 + <p style="color: #0000FF;"><b>Rethinking Data-free Quantization as a Zero-sum Game.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang
