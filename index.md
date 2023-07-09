@@ -7,11 +7,11 @@ layout: default
 <img class="profile-picture" src="biaoqian.jpg">
 **Ph.D. candidate**
 
-Hefei University of Technology, Hefei, China
+**Hefei University of Technology, Hefei, China**
 
-Email: hfutqian@gmail.com
+**Email: hfutqian@gmail.com**
 
-Google Scholar Profile: [Google Scholar](https://scholar.google.com/citations?user=hSaWNR0AAAAJ)
+**Google Scholar Profile: [Google Scholar](https://scholar.google.com/citations?user=hSaWNR0AAAAJ) **
 
 
 ## Research Interests
