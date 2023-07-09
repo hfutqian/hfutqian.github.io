@@ -9,6 +9,8 @@ Ph.D. candidate
 Hefei University of Technology,
 Hefei, China
 
+Email: hfutqian@gmail.com
+
 ## Research Interests
 Computer Vision;  Model Compression;  Knowledge Distillation
 
