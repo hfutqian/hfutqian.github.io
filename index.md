@@ -23,7 +23,7 @@ layout: default
 
 
 # Recent Publications
-<p style="color: #0000FF;">Adaptive Data-Free Quantization</p>
++ <p style="color: #0000FF;">Adaptive Data-Free Quantization</p>
 
   **<u>Biao Qian</u>, Yang Wang, Richang Hong, Meng Wang**
   
