@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## $\color{blue}{About Me}$
+## About Me
 
 <img class="profile-picture" src="biaoqian.jpg">
 Ph.D. candidate
