@@ -23,10 +23,10 @@ layout: default
 
 
 # Recent Publications
-+ **Biao Qian**, Yang Wang, Richang Hong, Meng Wang:<p style="color: #0000FF;">Adaptive Data-Free Quantization.</p> 
+ **Biao Qian**, Yang Wang, Richang Hong, Meng Wang:<p style="color: #0000FF;">Adaptive Data-Free Quantization.</p> 
   **IEEE CVPR 2023: 7960-7968.**
 
-+ <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p> 
+\[1\] <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang
   **IEEE CVPR 2023: 7960-7968.**
 
