@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="biaoqian.jpg">
-Ph.D. candidate
+**Ph.D. candidate**
 
 Hefei University of Technology, Hefei, China
 
