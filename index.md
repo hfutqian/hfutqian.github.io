@@ -11,7 +11,7 @@ layout: default
 
 **Email: hfutqian@gmail.com**
 
-**Google Scholar Profile: [Google Scholar](https://scholar.google.com/citations?user=hSaWNR0AAAAJ) **
+**Google Scholar Profile:** [Google Scholar](https://scholar.google.com/citations?user=hSaWNR0AAAAJ)
 
 
 ## Research Interests
