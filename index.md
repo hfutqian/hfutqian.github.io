@@ -36,12 +36,12 @@ layout: default
 + <p style="color: #0000FF;"><b>Switchable Online Knowledge Distillation.</b></p> 
   **Biao Qian**, Yang Wang, Hongzhi Yin, Richang Hong, Meng Wang
 
-  **European Conference on Computer Vision (ECCV). 2022: 449-466.**
+  European Conference on Computer Vision (**ECCV**). 2022: 449-466.
 
 + <p style="color: #0000FF;"><b>Diversifying inference path selection: Moving-mobile-network for landmark recognition.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang, Ling Shao
 
-  **IEEE Transactions on Image Processing, 2021, 30: 4894-4904.**
+  **IEEE Transactions on Image Processing**, 2021, 30: 4894-4904.
 
 + <p style="color: #0000FF;"><b>Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis.</b></p> 
   Haoran Sun, Yang Wang, Haipeng Liu, **Biao Qian**, Meng Wang
