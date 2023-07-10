@@ -4,6 +4,8 @@ layout: default
 
 # About Me
 
+---
+
 <img class="profile-picture" src="biaoqian.jpg">
 **Ph.D. candidate**
 
@@ -13,7 +15,7 @@ layout: default
 
 **Google Scholar Profile:** \[[**Google Scholar**](https://scholar.google.com/citations?user=hSaWNR0AAAAJ)\]
 
----
+
 
 # Research Interests
 <p style="color: #0000FF;"><b>Computer Vision;  Model Compression;  Knowledge Distillation</b></p>
