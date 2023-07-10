@@ -49,7 +49,7 @@ layout: default
 
 + <p style="color: #0000FF;"><b>Rethinking Data-free Quantization as a Zero-sum Game.</b></p>
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang\
-  Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2023.\
+  Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2023: 9489-9497.\
   \[[**Paper**](https://arxiv.org/pdf/2302.09572.pdf)\]
   \[[**Code**](https://github.com/hfutqian/AdaSG)\]
   \[[**BibTeX**](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=26136&publicationId=24416)\]
