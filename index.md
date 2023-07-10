@@ -32,7 +32,7 @@ layout: default
 ---
 
 # Recent Publications
-<img src="adadfq.png" style="width: 260px; height: auto;" align="right"/>
+<img src="adadfq.png" style="width: 260px; height: auto; outline: 2px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p>
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang\
