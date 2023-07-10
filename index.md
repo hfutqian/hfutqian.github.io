@@ -7,9 +7,9 @@ layout: default
 <img class="profile-picture" src="biaoqian.jpg">
 **Ph.D. candidate**
 
+**School of Computer Science and Information Engineering**
+
 **Hefei University of Technology, Hefei, China**
-
-
    
 **Email**: hfutqian@gmail.com
 
