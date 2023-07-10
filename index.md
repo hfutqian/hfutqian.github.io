@@ -75,7 +75,7 @@ layout: default
 ---
 
 # Invited Talks
-+ <p style="color: #0000FF;"><b>AI TIME</b> (June 2022)</p>
++ <p style="color: #0000FF;"><b>AI TIME Youth PhD Talk</b> (June 2022)</p>
   
   **Title**: Switchable Online Knowledge Distillation.
 
