@@ -32,7 +32,7 @@ layout: default
 ---
 
 # Recent Publications
-<img src="adadfq.png" style="width: 260px; height: auto; outline: 2px solid black;" align="right"/>
+<img src="adadfq.png" style="width: 260px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p>
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang\
@@ -44,7 +44,7 @@ layout: default
 <br/>
 
 
-<img src="adasg.png" style="width: 260px; height: auto;" align="right"/>
+<img src="adasg.png" style="width: 260px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Rethinking Data-free Quantization as a Zero-sum Game.</b></p>
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang\
@@ -56,7 +56,7 @@ layout: default
 <br/>
 
 
-<img src="switokd.png" style="width: 260px; height: auto;" align="right"/>
+<img src="switokd.png" style="width: 260px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Switchable Online Knowledge Distillation.</b></p> 
   **Biao Qian**, Yang Wang, Hongzhi Yin, Richang Hong, Meng Wang\
@@ -66,7 +66,7 @@ layout: default
   \[[**BibTeX**](https://scholar.googleusercontent.com/scholar.bib?q=info:s0PsGMaNqFwJ:scholar.google.com/&output=citation&scisdr=ChXGSrvpEOuuy1ZwDLY:ABFrs3wAAAAAZKt1FLbo6hw6mYn5X8tXgppgC9Q&scisig=ABFrs3wAAAAAZKt1FPUWeFYcOj_dKijzuM_v1zs&scisf=4)\]
 
 
-<img src="m2net.png" style="width: 260px; height: auto;" align="right"/>
+<img src="m2net.png" style="width: 260px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Diversifying inference path selection: Moving-mobile-network for landmark recognition.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang, Ling Shao\
