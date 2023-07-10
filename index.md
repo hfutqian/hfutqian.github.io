@@ -37,40 +37,32 @@ layout: default
 
 
 + <p style="color: #0000FF;"><b>Rethinking Data-free Quantization as a Zero-sum Game.</b></p>
-  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang
-
-  **AAAI** 2023.
-
+  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang\
+  **AAAI** 2023.\
   \[[**Paper**](https://arxiv.org/pdf/2302.09572.pdf)\]
   \[[**Code**](https://github.com/hfutqian/AdaSG)\]
   \[[**BibTeX**](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=26136&publicationId=24416)\]
 
 
 + <p style="color: #0000FF;"><b>Switchable Online Knowledge Distillation.</b></p> 
-  **Biao Qian**, Yang Wang, Hongzhi Yin, Richang Hong, Meng Wang
-
-  European Conference on Computer Vision (**ECCV**). 2022: 449-466.
-
+  **Biao Qian**, Yang Wang, Hongzhi Yin, Richang Hong, Meng Wang\
+  European Conference on Computer Vision (**ECCV**). 2022: 449-466.\
   \[[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_27)\]
   \[[**Code**](https://github.com/hfutqian/SwitOKD)\]
   \[[**BibTeX**](https://scholar.googleusercontent.com/scholar.bib?q=info:s0PsGMaNqFwJ:scholar.google.com/&output=citation&scisdr=ChXGSrvpEOuuy1ZwDLY:ABFrs3wAAAAAZKt1FLbo6hw6mYn5X8tXgppgC9Q&scisig=ABFrs3wAAAAAZKt1FPUWeFYcOj_dKijzuM_v1zs&scisf=4)\]
 
 
 + <p style="color: #0000FF;"><b>Diversifying inference path selection: Moving-mobile-network for landmark recognition.</b></p> 
-  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang, Ling Shao
-
-  **IEEE Transactions on Image Processing**, 2021, 30: 4894-4904.
-
+  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang, Ling Shao\
+  **IEEE Transactions on Image Processing**, 2021, 30: 4894-4904.\
   \[[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9423528)\]
   \[[**Code**](https://github.com/hfutqian/Diversifying-Inference-Path-Selection-Moving-Mobile-Network-for-Landmark-Recognition)\]
   \[[**BibTeX**](https://scholar.googleusercontent.com/scholar.bib?q=info:J6DjfWco3joJ:scholar.google.com/&output=citation&scisdr=ChXGSrvpEOuuy1ZwQkQ:ABFrs3wAAAAAZKt1WkRhvdsZldN3h5uirDLvCcs&scisig=ABFrs3wAAAAAZKt1WsmoRkcJad_aS9rqLR-HyHU&scisf=4)\]
 
 
 + <p style="color: #0000FF;"><b>Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis.</b></p> 
-  Haoran Sun, Yang Wang, Haipeng Liu, **Biao Qian**, Meng Wang
-
-  **Chinese Journal of Electronics** (2023).
-
+  Haoran Sun, Yang Wang, Haipeng Liu, **Biao Qian**, Meng Wang\
+  **Chinese Journal of Electronics** (2023).\
   \[[**Paper**](https://arxiv.org/pdf/2302.08706.pdf)\]
   \[[**Code**](https://github.com/haoranhfut/FF-GAN)\]
 
