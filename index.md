@@ -23,7 +23,7 @@ layout: default
 
 # Experience
 
-<img src="hfut.jpg" width="300" height="300"/>
+<img src="hfut.png" width="100" height="100"/>
 
 + 2018.09-Present, Ph.D. Candidate, School of Computer Science and Information Engineering, Hefei University of Technology.
 + 2017.09-2018.06, Master Candidate, School of Computer Science and Information Engineering, Hefei University of Technology.
