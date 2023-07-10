@@ -32,6 +32,8 @@ layout: default
 ---
 
 # Recent Publications
+<img src="adadfq.png" style="width: 260px; height: auto;" align="right"/>
+
 + <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p>
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang\
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). 2023: 7960-7968.\
@@ -40,6 +42,8 @@ layout: default
   \[[**BibTeX**](https://scholar.googleusercontent.com/scholar.bib?q=info:h8MxtYOvhPEJ:scholar.google.com/&output=citation&scisdr=ChXGSrvpEOuuy1Zw6vI:ABFrs3wAAAAAZKt18vKqZ5fJs98f-m_jbCAShg4&scisig=ABFrs3wAAAAAZKt18q9VzuwEMqQ9KtICpvg61o0&scisf=4&ct=citation&cd=-1)\]
   
 
+
+<img src="adasg.png" style="width: 260px; height: auto;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Rethinking Data-free Quantization as a Zero-sum Game.</b></p>
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang\
@@ -58,6 +62,8 @@ layout: default
   \[[**Code**](https://github.com/hfutqian/SwitOKD)\]
   \[[**BibTeX**](https://scholar.googleusercontent.com/scholar.bib?q=info:s0PsGMaNqFwJ:scholar.google.com/&output=citation&scisdr=ChXGSrvpEOuuy1ZwDLY:ABFrs3wAAAAAZKt1FLbo6hw6mYn5X8tXgppgC9Q&scisig=ABFrs3wAAAAAZKt1FPUWeFYcOj_dKijzuM_v1zs&scisf=4)\]
 
+
+<img src="m2net.png" style="width: 260px; height: auto;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Diversifying inference path selection: Moving-mobile-network for landmark recognition.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang, Ling Shao\
