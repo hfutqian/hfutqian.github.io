@@ -27,7 +27,7 @@ layout: default
 ---
 
 # Recent Publications
-+ <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p> 
++ <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p>\ 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang
   
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). 2023: 7960-7968.
@@ -38,7 +38,7 @@ layout: default
   
 
 
-+ <p style="color: #0000FF;"><b>Rethinking Data-free Quantization as a Zero-sum Game.</b></p> 
++ <p style="color: #0000FF;"><b>Rethinking Data-free Quantization as a Zero-sum Game.</b></p>
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang
 
   **AAAI** 2023.
