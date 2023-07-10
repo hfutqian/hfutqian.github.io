@@ -49,7 +49,7 @@ layout: default
   \[[**BibTeX**](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=26136&publicationId=24416)\]
 
 
-<img src="switokd.png" style="width: 300px; height: auto;" align="right"/>
+<img src="switokd.png" style="width: 260px; height: auto;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Switchable Online Knowledge Distillation.</b></p> 
   **Biao Qian**, Yang Wang, Hongzhi Yin, Richang Hong, Meng Wang\
