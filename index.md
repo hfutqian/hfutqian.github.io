@@ -53,6 +53,8 @@ layout: default
   \[[**Code**](https://github.com/hfutqian/AdaSG)\]
   \[[**BibTeX**](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=26136&publicationId=24416)\]
 
+<br/>
+
 
 <img src="switokd.png" style="width: 260px; height: auto;" align="right"/>
 
