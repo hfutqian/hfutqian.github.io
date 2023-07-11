@@ -35,7 +35,7 @@ layout: default
 <img src="adadfq.png" style="width: 280px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p>
-  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang\
+  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang.\
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). 2023: 7960-7968.\
   \[[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Qian_Adaptive_Data-Free_Quantization_CVPR_2023_paper.pdf)\]
   \[[**Code**](https://github.com/hfutqian/AdaDFQ)\]
@@ -48,7 +48,7 @@ layout: default
 <img src="adasg.png" style="width: 280px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Rethinking Data-free Quantization as a Zero-sum Game.</b></p>
-  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang\
+  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang.\
   Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2023: 9489-9497.\
   \[[**Paper**](https://arxiv.org/pdf/2302.09572.pdf)\]
   \[[**Code**](https://github.com/hfutqian/AdaSG)\]
@@ -60,7 +60,7 @@ layout: default
 <img src="switokd.png" style="width: 280px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Switchable Online Knowledge Distillation.</b></p> 
-  **Biao Qian**, Yang Wang, Hongzhi Yin, Richang Hong, Meng Wang\
+  **Biao Qian**, Yang Wang, Hongzhi Yin, Richang Hong, Meng Wang.\
   European Conference on Computer Vision (**ECCV**). 2022: 449-466.\
   \[[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_27)\]
   \[[**Code**](https://github.com/hfutqian/SwitOKD)\]
@@ -72,7 +72,7 @@ layout: default
 <img src="m2net.png" style="width: 280px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Diversifying inference path selection: Moving-mobile-network for landmark recognition.</b></p> 
-  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang, Ling Shao\
+  **Biao Qian**, Yang Wang, Richang Hong, Meng Wang, Ling Shao.\
   **IEEE Transactions on Image Processing**, 2021, 30: 4894-4904.\
   \[[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9423528)\]
   \[[**Code**](https://github.com/hfutqian/Diversifying-Inference-Path-Selection-Moving-Mobile-Network-for-Landmark-Recognition)\]
@@ -82,7 +82,7 @@ layout: default
 
 
 + <p style="color: #0000FF;"><b>Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis.</b></p> 
-  Haoran Sun, Yang Wang, Haipeng Liu, **Biao Qian**, Meng Wang\
+  Haoran Sun, Yang Wang, Haipeng Liu, **Biao Qian**, Meng Wang.\
   **Chinese Journal of Electronics** (2023).\
   \[[**Paper**](https://arxiv.org/pdf/2302.08706.pdf)\]
   \[[**Code**](https://github.com/haoranhfut/FF-GAN)\]
