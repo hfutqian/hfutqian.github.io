@@ -78,7 +78,7 @@ layout: default
   \[[**Code**](https://github.com/hfutqian/Diversifying-Inference-Path-Selection-Moving-Mobile-Network-for-Landmark-Recognition)\]
   \[[**BibTeX**](https://scholar.googleusercontent.com/scholar.bib?q=info:J6DjfWco3joJ:scholar.google.com/&output=citation&scisdr=ChXGSrvpEOuuy1ZwQkQ:ABFrs3wAAAAAZKt1WkRhvdsZldN3h5uirDLvCcs&scisig=ABFrs3wAAAAAZKt1WsmoRkcJad_aS9rqLR-HyHU&scisf=4)\]
 
-
+<br/>
 
 
 <img src="ffgan.png" style="width: 280px; height: auto; outline: 0.6px solid black;" align="right"/>
