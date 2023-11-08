@@ -17,7 +17,7 @@ layout: default
 ---
 
 # Research Interests
-<p style="color: #0000FF;"><b>Computer Vision;  Model Compression;  Knowledge Distillation</b></p>
+<p style="color: #0000FF;"><b>Knowledge Distillation;  Model Compression; Computer Vision </b></p>
 
 ---
 
