@@ -47,7 +47,7 @@ layout: default
 
 <img src="adasg.png" style="width: 280px; height: auto; outline: 0.6px solid black;" align="right"/>
 
-+ <p style="color: #0000FF;"><b>Rethinking Data-free Quantization as a Zero-sum Game.</b></p>
++ <p style="color: #0000FF;"><b>Rethinking Data-Free Quantization as a Zero-Sum Game.</b></p>
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang.\
   Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2023: 9489-9497.\
   \[[**Paper**](https://arxiv.org/pdf/2302.09572.pdf)\]
@@ -71,7 +71,7 @@ layout: default
 
 <img src="m2net.png" style="width: 280px; height: auto; outline: 0.6px solid black;" align="right"/>
 
-+ <p style="color: #0000FF;"><b>Diversifying inference path selection: Moving-mobile-network for landmark recognition.</b></p> 
++ <p style="color: #0000FF;"><b>Diversifying Inference Path Selection: Moving-Mobile-Network for Landmark Recognition.</b></p> 
   **Biao Qian**, Yang Wang, Richang Hong, Meng Wang, Ling Shao.\
   **IEEE Transactions on Image Processing**, 2021, 30: 4894-4904.\
   \[[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9423528)\]
