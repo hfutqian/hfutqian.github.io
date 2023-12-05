@@ -97,7 +97,7 @@ layout: default
 
 # Academic Services
 
-**Conference PC / Journal Reviewers**: AAAI, TPAMI, TNNLS, etc.
+**Conference PC / Journal Reviewers**: CVPR, AAAI, TPAMI, TNNLS, etc.
 
 ---
 
