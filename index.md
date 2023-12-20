@@ -12,6 +12,8 @@ layout: default
    
 **E-mail**: hfutqian@gmail.com
 
+**GitHub**: github.com/hfutqian
+
 **Google Scholar Profile:** \[[**Google Scholar**](https://scholar.google.com/citations?user=hSaWNR0AAAAJ)\]
 
 ---
