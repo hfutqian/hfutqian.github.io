@@ -10,14 +10,14 @@ layout: default
 
 **School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China**
    
-**Email**: hfutqian@gmail.com
+**E-mail**: hfutqian@gmail.com
 
 **Google Scholar Profile:** \[[**Google Scholar**](https://scholar.google.com/citations?user=hSaWNR0AAAAJ)\]
 
 ---
 
 # Research Interests
-<p style="color: #0000FF;"><b>Knowledge Distillation;  Model Compression; Computer Vision </b></p>
+<p style="color: #0000FF;"><b>Knowledge Distillation; Generative AI; Network Quantization; Model Compression; Computer Vision </b></p>
 
 ---
 
@@ -97,12 +97,12 @@ layout: default
 
 # Academic Services
 
-**Conference PC / Journal Reviewers**: CVPR, AAAI, TPAMI, TNNLS, etc.
+**Conference PC / Journal Reviewers**: CVPR, AAAI, ACM MM, IJCAI, ICMR, EMNLP, TPAMI, TIP, TOIS, TNNLS, CVIU, TMM, TOMM, etc.
 
 ---
 
 # Invited Talks
-+ <p style="color: #0000FF;"><b>AI TIME Youth PhD Talk</b> (June 2022)</p>
++ <p style="color: #0000FF;"><b>AI TIME Youth PhD Talk  for Accepted Papers by ECCV 2022</b> (June 2022)</p>
   
   **Title**: Switchable Online Knowledge Distillation.
 
