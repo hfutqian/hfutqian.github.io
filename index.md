@@ -104,7 +104,7 @@ layout: default
 # Invited Talks
 + <p style="color: #0000FF;"><b>AAAI 2023 Oral Presentation of Accepted Paper</b> (online, February 2023)</p>
 
-**Machine Learning: Learning on the Edge & Model Compression**
+  **Machine Learning: Learning on the Edge & Model Compression**
   
   **Title**:  Rethinking Data-Free Quantization as a Zero-Sum Game.
   
