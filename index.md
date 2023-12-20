@@ -102,7 +102,14 @@ layout: default
 ---
 
 # Invited Talks
-+ <p style="color: #0000FF;"><b>AI TIME Youth PhD Talk  for Accepted Papers by ECCV 2022</b> (June 2022)</p>
++ <p style="color: #0000FF;"><b>AAAI 2023 Oral Presentation of Accepted Paper</b> (online, February 2023)</p>
+
+**Machine Learning: Learning on the Edge & Model Compression**
+  
+  **Title**:  Rethinking Data-Free Quantization as a Zero-Sum Game.
+  
+
++ <p style="color: #0000FF;"><b>AI TIME Youth PhD Talk for Accepted Papers by ECCV 2022</b> (online, June 2022)</p>
   
   **Title**: Switchable Online Knowledge Distillation.
 
