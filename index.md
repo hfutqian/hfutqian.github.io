@@ -121,9 +121,9 @@ layout: default
 
 + <p style="color: #0000FF;"><b>Reviewers</b></p>
 
-  Conferences: CVPR, AAAI, ACM MM, IJCAI, ICMR, EMNLP, etc
+  **Conferences**: CVPR, AAAI, ACM MM, IJCAI, ICMR, EMNLP, etc
   
-  Journals: TPAMI, TIP, TOIS, TNNLS, TCSVT, CVIU, TMM, TOMM, etc.
+  **Journals**: TPAMI, TIP, TOIS, TNNLS, TCSVT, CVIU, TMM, TOMM, etc.
   
 
 ---
