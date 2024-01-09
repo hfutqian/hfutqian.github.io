@@ -6,7 +6,7 @@ layout: default
 # About Me
 
 <img class="profile-picture" src="biaoqian.jpg">
-**Ph.D. Candidate**
+**Research Assistant**
 
 **School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China**
    
