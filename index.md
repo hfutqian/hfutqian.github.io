@@ -23,11 +23,12 @@ layout: default
 
 ---
 
-# Experience
+# Education and Experiences
 
 <img src="hfut.png" style="height: 110px; width: auto;" align="right"/>
 
-+ 2018.09-Present, **Ph.D. Candidate** in Signal and Information Processing, School of Computer Science and Information Engineering, Hefei University of Technology.
++ 2023.12-Present, **Research Assistant**, Hefei University of Technology.
++ 2018.09-2023.12, **Ph.D. Candidate** in Signal and Information Processing, School of Computer Science and Information Engineering, Hefei University of Technology.
 + 2017.09-2018.06, **Master Candidate** in Signal and Information Processing, School of Computer Science and Information Engineering, Hefei University of Technology.
 + 2013.09-2017.06, **Bachelor of Engineering**  in Electronic Information Engineering, School of Computer Science and Information Engineering, Hefei University of Technology.
 
