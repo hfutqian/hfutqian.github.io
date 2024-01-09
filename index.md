@@ -25,7 +25,7 @@ layout: default
 
 # Education and Experiences
 
-<img src="hfut.png" style="height: 110px; width: auto;" align="right"/>
+
 
 + 2023.12-Present, **Research Assistant**, School of Computer Science and Information Engineering, Hefei University of Technology.
 + 2018.09-2023.12, **Ph.D. Candidate** in Signal and Information Processing, School of Computer Science and Information Engineering, Hefei University of Technology.
