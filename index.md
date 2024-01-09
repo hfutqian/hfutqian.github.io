@@ -119,7 +119,12 @@ layout: default
 
 # Academic Services
 
-**Conference PC / Journal Reviewers**: CVPR, AAAI, ACM MM, IJCAI, ICMR, EMNLP, TPAMI, TIP, TOIS, TNNLS, CVIU, TMM, TOMM, etc.
++ <p style="color: #0000FF;"><b>Reviewers</b></p>
+
+  Conferences: CVPR, AAAI, ACM MM, IJCAI, ICMR, EMNLP, etc
+  
+  Journals: TPAMI, TIP, TOIS, TNNLS, TCSVT, CVIU, TMM, TOMM, etc.
+  
 
 ---
 
