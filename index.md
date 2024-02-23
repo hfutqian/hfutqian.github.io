@@ -84,6 +84,16 @@ layout: default
 <br/>
 
 
+<img src="loc.png" style="width: 280px; height: auto; outline: 0.6px solid black;" align="right"/>
+
++ <p style="color: #0000FF;"><b>Seeking False Hard Negatives for Graph Contrastive Learning.</b></p> 
+  Xin Liu, **Biao Qian**, Haipeng Liu, Yang Wang, Meng Wang.\
+  **IEEE Transactions on Circuits and Systems for Video Technology** (2024).\
+
+
+  <br/>
+
+
 <img src="ffgan.png" style="width: 280px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis.</b></p> 
