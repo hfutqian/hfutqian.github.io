@@ -98,7 +98,9 @@ layout: default
 
 + <p style="color: #0000FF;"><b>Seeking False Hard Negatives for Graph Contrastive Learning.</b></p> 
   Xin Liu, **Biao Qian**, Haipeng Liu, Yang Wang, Meng Wang.\
-  **IEEE Transactions on Circuits and Systems for Video Technology** (2024).
+  **IEEE Transactions on Circuits and Systems for Video Technology** (2024).\
+  \[[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445278)\]
+  
 
 
   <br/>
