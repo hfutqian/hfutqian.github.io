@@ -39,7 +39,7 @@ layout: default
 <img src="gapssg.png" style="width: 280px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Unpacking the Gap Box Against Data-Free Knowledge Distillation.</b></p> 
-  Yang Wang, Biao Qian, Haipeng Liu, Yong Rui, Meng Wang*.\
+  Yang Wang, **Biao Qian**, Haipeng Liu, Yong Rui, Meng Wang*.\
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2024.
 
 
