@@ -152,6 +152,7 @@ layout: default
 + <p style="color: #0000FF;"><b>AI TIME Youth PhD Talk for Accepted Papers by ECCV 2022</b> (online, June 2022)</p>
   
   **Title**: Switchable Online Knowledge Distillation.
+  **Video**: https://b23.tv/G62WhP6
 
 ---
 
