@@ -46,7 +46,7 @@ layout: default
 
 + <p style="color: #0000FF;"><b>Unpacking the Gap Box Against Data-Free Knowledge Distillation.</b></p> 
   Yang Wang, **Biao Qian**, Haipeng Liu, Yong Rui, Meng Wang*.\
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**). 2024.
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**). 2024.
 
 
   <br/>
@@ -93,7 +93,7 @@ layout: default
 
 + <p style="color: #0000FF;"><b>Diversifying Inference Path Selection: Moving-Mobile-Network for Landmark Recognition.</b></p> 
   **Biao Qian**, Yang Wang*, Richang Hong, Meng Wang, Ling Shao.\
-  IEEE Transactions on Image Processing (**TIP**), 2021, 30: 4894-4904.\
+  IEEE Transactions on Image Processing (**T-IP**), 2021, 30: 4894-4904.\
   \[[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9423528)\]
   \[[**Code**](https://github.com/hfutqian/Diversifying-Inference-Path-Selection-Moving-Mobile-Network-for-Landmark-Recognition)\]
   \[[**BibTeX**](https://scholar.googleusercontent.com/scholar.bib?q=info:J6DjfWco3joJ:scholar.google.com/&output=citation&scisdr=ChXGSrvpEOuuy1ZwQkQ:ABFrs3wAAAAAZKt1WkRhvdsZldN3h5uirDLvCcs&scisig=ABFrs3wAAAAAZKt1WsmoRkcJad_aS9rqLR-HyHU&scisf=4)\]
@@ -115,7 +115,7 @@ layout: default
 
 + <p style="color: #0000FF;"><b>Seeking False Hard Negatives for Graph Contrastive Learning.</b></p> 
   Xin Liu, **Biao Qian**, Haipeng Liu, Yang Wang, Meng Wang.\
-  IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**). 2024.\
+  IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**). 2024.\
   \[[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445278)\]
   
 
