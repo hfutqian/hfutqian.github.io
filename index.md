@@ -8,7 +8,8 @@ layout: default
 <img class="profile-picture" src="biaoqian.jpg">
 **Research Assistant**
 
-**School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China**
+**School of Computer Science and Information Engineering,** \ 
+**Hefei University of Technology, Hefei, China**
    
 **E-mail**: hfutqian@gmail.com
 
