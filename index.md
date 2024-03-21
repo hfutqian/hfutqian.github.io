@@ -144,6 +144,12 @@ layout: default
 
 
 # Invited Talks
++ <p style="color: #0000FF;"><b>CVPR 2023 Poster Presentation of Accepted Paper</b> (in person, June 2023)</p>
+  
+  **Title**:  Adaptive Data-Free Quantization.
+
+  <br/>
+  
 + <p style="color: #0000FF;"><b>AAAI 2023 Oral Presentation of Accepted Paper</b> (online, February 2023)</p>
 
   **Machine Learning: Learning on the Edge & Model Compression**
