@@ -50,7 +50,7 @@ layout: default
   \[[**Paper**](https://ieeexplore.ieee.org/document/10476709)\]
   \[[**Code**](https://github.com/hfutqian/GapSSG)\]
 
-
+  <br/>
   <br/>
 
 
@@ -65,6 +65,7 @@ layout: default
 
 <br/>
 <br/>
+<br/>
 
 
 <img src="adasg.png" style="width: 320px; height: auto; outline: 0.6px solid black;" align="right"/>
@@ -76,6 +77,7 @@ layout: default
   \[[**Code**](https://github.com/hfutqian/AdaSG)\]
   \[[**BibTeX**](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=26136&publicationId=24416)\]
 
+<br/>
 <br/>
 <br/>
 
@@ -113,6 +115,7 @@ layout: default
   \[[**Code**](https://github.com/htyjers/StrDiffusion)\]
 
 
+  <br/>
   <br/>
 
 
