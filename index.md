@@ -103,7 +103,7 @@ layout: default
 <br/>
 
 
-<img src="StrDiffusion.png" style="width: 350px; height: auto; outline: 0.6px solid black;" align="right"/>
+<img src="StrDiffusion.png" style="width: 300px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting.</b></p> 
   Haipeng Liu, Yang Wang*, **Biao Qian**, Meng Wang, Yong Rui.\
