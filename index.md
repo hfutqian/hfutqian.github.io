@@ -65,7 +65,6 @@ layout: default
 
 <br/>
 <br/>
-<br/>
 
 
 <img src="adasg.png" style="width: 300px; height: auto; outline: 0.6px solid black;" align="right"/>
@@ -77,6 +76,7 @@ layout: default
   \[[**Code**](https://github.com/hfutqian/AdaSG)\]
   \[[**BibTeX**](https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=26136&publicationId=24416)\]
 
+<br/>
 <br/>
 
 
@@ -124,7 +124,7 @@ layout: default
   \[[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445278)\]
   
 
-
+  <br/>
   <br/>
 
 
