@@ -42,7 +42,7 @@ layout: default
 
 # Recent Publications
 
-<img src="gapssg.png" style="width: 350px; height: auto; outline: 0.6px solid black;" align="right"/>
+<img src="gapssg.png" style="width: 300px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Unpacking the Gap Box Against Data-Free Knowledge Distillation.</b></p> 
   Yang Wang, **Biao Qian**, Haipeng Liu, Yong Rui, Meng Wang*.\
@@ -54,7 +54,7 @@ layout: default
   <br/>
 
 
-<img src="adadfq.png" style="width: 350px; height: auto; outline: 0.6px solid black;" align="right"/>
+<img src="adadfq.png" style="width: 300px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Adaptive Data-Free Quantization.</b></p>
   **Biao Qian**, Yang Wang*, Richang Hong, Meng Wang.\
@@ -68,7 +68,7 @@ layout: default
 <br/>
 
 
-<img src="adasg.png" style="width: 350px; height: auto; outline: 0.6px solid black;" align="right"/>
+<img src="adasg.png" style="width: 300px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Rethinking Data-Free Quantization as a Zero-Sum Game.</b></p>
   **Biao Qian**, Yang Wang*, Richang Hong, Meng Wang.\
@@ -80,7 +80,7 @@ layout: default
 <br/>
 
 
-<img src="switokd.png" style="width: 350px; height: auto; outline: 0.6px solid black;" align="right"/>
+<img src="switokd.png" style="width: 300px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Switchable Online Knowledge Distillation.</b></p> 
   **Biao Qian**, Yang Wang*, Hongzhi Yin, Richang Hong, Meng Wang.\
@@ -93,7 +93,7 @@ layout: default
 <br/>
 
 
-<img src="m2net.png" style="width: 350px; height: auto; outline: 0.6px solid black;" align="right"/>
+<img src="m2net.png" style="width: 300px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Diversifying Inference Path Selection: Moving-Mobile-Network for Landmark Recognition.</b></p> 
   **Biao Qian**, Yang Wang*, Richang Hong, Meng Wang, Ling Shao.\
@@ -105,7 +105,7 @@ layout: default
 <br/>
 
 
-<img src="StrDiffusion.png" style="width: 350px; height: auto; outline: 0.6px solid black;" align="right"/>
+<img src="StrDiffusion.png" style="width: 300px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting.</b></p> 
   Haipeng Liu, Yang Wang*, **Biao Qian**, Meng Wang, Yong Rui.\
@@ -116,7 +116,7 @@ layout: default
   <br/>
 
 
-<img src="loc.png" style="width: 350px; height: auto; outline: 0.6px solid black;" align="right"/>
+<img src="loc.png" style="width: 300px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Seeking False Hard Negatives for Graph Contrastive Learning.</b></p> 
   Xin Liu, **Biao Qian**, Haipeng Liu, Yang Wang, Meng Wang.\
@@ -128,7 +128,7 @@ layout: default
   <br/>
 
 
-<img src="ffgan.png" style="width: 350px; height: auto; outline: 0.6px solid black;" align="right"/>
+<img src="ffgan.png" style="width: 300px; height: auto; outline: 0.6px solid black;" align="right"/>
 
 + <p style="color: #0000FF;"><b>Fine-grained Cross-modal Fusion based Refinement for Text-to-Image Synthesis.</b></p> 
   Haoran Sun, Yang Wang*, Haipeng Liu, **Biao Qian**, Meng Wang.\
