@@ -46,7 +46,9 @@ layout: default
 
 + <p style="color: #0000FF;"><b>Unpacking the Gap Box Against Data-Free Knowledge Distillation.</b></p> 
   Yang Wang, **Biao Qian**, Haipeng Liu, Yong Rui, Meng Wang*.\
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**). 2024.
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**). 2024.\
+  \[[**Paper**](https://ieeexplore.ieee.org/document/10476709)\]
+  \[[**Code**](https://github.com/hfutqian/GapSSG)\]
 
 
   <br/>
@@ -105,7 +107,8 @@ layout: default
 
 + <p style="color: #0000FF;"><b>Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting.</b></p> 
   Haipeng Liu, Yang Wang*, **Biao Qian**, Meng Wang, Yong Rui.\
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). 2024.
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). 2024.\
+  \[[**Code**](https://github.com/htyjers/StrDiffusion)\]
 
 
   <br/>
