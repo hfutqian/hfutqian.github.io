@@ -112,7 +112,8 @@ layout: default
 + <p style="color: #0000FF;"><b>Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting.</b></p> 
   Haipeng Liu, Yang Wang*, **Biao Qian**, Meng Wang, Yong Rui.\
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). 2024.\
-  
+  \[[**Code**](https://github.com/htyjers/StrDiffusion)\]
+  \[[**Code**](https://github.com/htyjers/StrDiffusion)\]
 
 
   <br/>
