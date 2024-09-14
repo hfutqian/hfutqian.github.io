@@ -47,7 +47,7 @@ layout: default
 + <p style="color: #0000FF;"><b>Unpacking the Gap Box Against Data-Free Knowledge Distillation.</b></p> 
   Yang Wang, **Biao Qian**, Haipeng Liu, Yong Rui, Meng Wang*.\
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**). 2024.\
-  \[[**Paper**](https://ieeexplore.ieee.org/document/10476709)\]
+  \[[**Paper**](https://ieeexplore.ieee.org/abstract/document/10476709)\]
   \[[**Code**](https://github.com/hfutqian/GapSSG)\]
 
   <br/>
