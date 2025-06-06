@@ -143,7 +143,7 @@ layout: default
   **Chinese Journal of Electronics** (2023).\
   \[[**Paper**](https://arxiv.org/pdf/2302.08706.pdf)\]
   \[[**Code**](https://github.com/haoranhfut/FF-GAN)\]
-  \[[**BibTeX**](https://scholar.googleusercontent.com/scholar.bib?q=info:Yqsn9LLk9esJ:scholar.google.com/&output=citation&scisdr=ClEtl_IEELH7wXgYBd4:AFWwaeYAAAAAZe0eHd5tkD9wSt9Pe1Z6r5lbBYc&scisig=AFWwaeYAAAAAZe0eHSgjCW0y_iwCGIiAkXsRScc&scisf=4&ct=citation&cd=-1&scfhb=1)\]
+  \[[**BibTeX**](https://scholar.googleusercontent.com/scholar.bib?q=info:Yqsn9LLk9esJ:scholar.google.com/&output=citation&scisdr=CgKZd4WRELH7zNfEbn8:AAZF9b8AAAAAaELCdn6TzCvrwzCAuMdUZ0ob1lk&scisig=AAZF9b8AAAAAaELCdksdlqw0-WlMwysuczhZ3_U&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)\]
 
 
   <br/>
