@@ -184,11 +184,27 @@ layout: default
 
  <p style="color: #0000FF;"><b>Conference Reviewers for</b></p>
 
-  + NeurIPS, CVPR, ICCV, AAAI, ACM MM, IJCAI, ICMR, EMNLP, etc
+  + The Conference on Neural Information Processing Systems (NeurIPS)
+  + IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+  + IEEE Conference on International Conference on Computer Vision (ICCV)
+  + The AAAI Conference on Artificial Intelligence (AAAI)
+  + ACM International Conference on Multimedia (ACM MM)
+  + International Joint Conference on Artificial Intelligence (IJCAI)
+  + ACM SIGMM International Conference on Multimedia Retrieval
+  + Conference on Empirical Methods in Natural Language Processing
+
 
  <p style="color: #0000FF;"><b>Journal Reviewers for</b></p>
   
-  + TPAMI, TIP, TOIS, TNNLS, TCSVT, CVIU, TMM, TOMM, etc.
+  + IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
+  + IEEE Transactions on Image Processing (T-IP)
+  + ACM Transactions on Information Systems (T-OIS)
+  + IEEE Transactions on Neural Networks and learning systems (T-NNLS)
+  + IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
+  + Computer Vision and Image Understanding
+  + IEEE Transactions on Multimedia
+  + Transactions on Multimedia Computing Communications and Applications
+
   
 
 ---
