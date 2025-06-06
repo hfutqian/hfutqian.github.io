@@ -182,11 +182,13 @@ layout: default
 
 # Academic Services
 
-+ <p style="color: #0000FF;"><b>Reviewers</b></p>
+ <p style="color: #0000FF;"><b>Conference Reviewers for</b></p>
 
-  **Conferences**: NeurIPS, CVPR, ICCV, AAAI, ACM MM, IJCAI, ICMR, EMNLP, etc
+  + NeurIPS, CVPR, ICCV, AAAI, ACM MM, IJCAI, ICMR, EMNLP, etc
+
+ <p style="color: #0000FF;"><b>Journal Reviewers for</b></p>
   
-  **Journals**: TPAMI, TIP, TOIS, TNNLS, TCSVT, CVIU, TMM, TOMM, etc.
+  + TPAMI, TIP, TOIS, TNNLS, TCSVT, CVIU, TMM, TOMM, etc.
   
 
 ---
