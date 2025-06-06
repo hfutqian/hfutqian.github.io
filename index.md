@@ -116,6 +116,7 @@ layout: default
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). 2024.\
   \[[**Paper**](https://arxiv.org/abs/2403.19898)\]
   \[[**Code**](https://github.com/htyjers/StrDiffusion)\]
+  \[[**BibTeX**](https://scholar.googleusercontent.com/scholar.bib?q=info:HbCu10f-MyQJ:scholar.google.com/&output=citation&scisdr=CgKZd4WRELH7zNfHLpM:AAZF9b8AAAAAaELBNpJCJUrz8N3tbVtkR7ThVJ4&scisig=AAZF9b8AAAAAaELBNv9iYkf6XHqPa6gz3spZD7Q&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)\]
 
 
   <br/>
@@ -128,6 +129,7 @@ layout: default
   Xin Liu, **Biao Qian**, Haipeng Liu, Yang Wang, Meng Wang.\
   IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**). 2024.\
   \[[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445278)\]
+  \[[**BibTeX**](https://scholar.googleusercontent.com/scholar.bib?q=info:PsHEtr5GeWwJ:scholar.google.com/&output=citation&scisdr=CgKZd4WRELH7zNfHg8E:AAZF9b8AAAAAaELBm8D9vnGHyLVzhwRTgbQDNWc&scisig=AAZF9b8AAAAAaELBm4uuoWLc9i7m_iKyy8-eSTA&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)\]
   
 
   <br/>
