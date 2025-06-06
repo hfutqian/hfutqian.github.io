@@ -6,9 +6,10 @@ layout: default
 # About Me
 
 <img class="profile-picture" src="biaoqian.jpg">
-**Research Assistant**
 
-**School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China**
+**Postdoctoral Researcher**
+
+**Department of Automation, Tsinghua University, Beijing, China**
    
 **E-mail**: hfutqian@gmail.com
 
