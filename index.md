@@ -26,18 +26,18 @@ layout: default
 
 # Education and Experiences
 
++ 2025.06-present, **Postdoctoral Researcher**, Department of Automation, Tsinghua University, Beijing, China.
+
++ 2024.06-2025.04, **Research Assistant**, School of Computer Science and Information Engineering, Hefei University of Technology, China.
 
 
-+ 2023.12-Present, **Research Assistant**, School of Computer Science and Information Engineering, Hefei University of Technology, China.
++ 2018.09-2024.06, **Ph.D.** in Signal and Information Processing, School of Computer Science and Information Engineering, Hefei University of Technology, China.
 
 
-+ 2018.09-2023.12, **Ph.D. Candidate** in Signal and Information Processing, School of Computer Science and Information Engineering, Hefei University of Technology, China.
++ 2017.09-2018.06, **Master** in Signal and Information Processing, School of Computer Science and Information Engineering, Hefei University of Technology, China.
 
 
-+ 2017.09-2018.06, **Master Candidate** in Signal and Information Processing, School of Computer Science and Information Engineering, Hefei University of Technology, China.
-
-
-+ 2013.09-2017.06, **Bachelor of Engineering**  in Electronic Information Engineering, School of Computer Science and Information Engineering, Hefei University of Technology, China.
++ 2013.09-2017.06, **Bachelor**  in Electronic Information Engineering, School of Computer Science and Information Engineering, Hefei University of Technology, China.
 
 ---
 
