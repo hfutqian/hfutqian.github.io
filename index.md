@@ -178,6 +178,9 @@ layout: default
 ---
 
 
+# Honors and Awards
+
+ <p style="color: #0000FF;"><b>Shuimu Tsinghua Scholar Program from Tsinghua University (2025)</b></p>
 
 
 # Academic Services
